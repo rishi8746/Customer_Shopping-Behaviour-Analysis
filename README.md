@@ -63,7 +63,7 @@ Using PostgreSQL, structured queries were executed to answer key business questi
 
 ## **5. Power BI Dashboard**
 
-An interactive **Power BI dashboard** was developed to visually present key findings and trends. The dashboard enables stakeholders to explore customer segments, revenue drivers, product performance and behavioral patterns through dynamic filters and visuals supporting data-driven decision-making.
+An interactive **Power BI dashboard** was developed to visually present key findings and trends. The dashboard enables stakeholders to explore customer segments, revenue drivers, product performance and behavioural patterns through dynamic filters and visuals supporting data-driven decision-making.
 
 ---
 
