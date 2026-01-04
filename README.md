@@ -1,6 +1,6 @@
 
 
-# **Customer Shopping Behavior Analysis**
+# **Customer Shopping Behaviour Analysis**
 
 ## **1. Project Overview**
 
